@@ -1,0 +1,16 @@
+{
+  "name": "Moje učenje",
+  "short_name": "Učenje",
+  "description": "Osobna aplikacija za učenje i održavanje znanja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f0e8",
+  "theme_color": "#1f5f7a",
+  "lang": "hr",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
